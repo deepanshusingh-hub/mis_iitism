@@ -1,0 +1,59 @@
+*{
+    background-color: white
+    ;
+}
+.session{
+    display: flex;
+    flex-direction: column;  
+    justify-content: center;
+    align-items: center; 
+}
+#session_year{
+    
+    width: 500px;
+    height: 30px;
+    align-items: center;
+    border-radius: 5px;
+    justify-content: center;
+    margin-top: 10px;
+    /* padding: 10px; */
+    margin-bottom: 20px;
+
+}
+#session_name{
+    width: 500px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.submit_btn{
+     text-decoration: none;
+     background-color: blue;
+     color: white;
+     width: 70px;
+     height: auto;
+     justify-items: center;
+     justify-content: center;
+     border-radius: 10px;
+     margin-top: 30px;
+     align-items: center;
+     padding: 10px;
+     text-align: center;
+
+}
+/* a:hover{
+    border:1px solid red;  
+   } */
+.ses_nm{
+    /* margin-top: 30%; */
+    /* align-items: left;
+    justify-content: left; */
+    margin-left: 0px;
+}
+.ses_yr{
+    margin-top:10%;
+    align-items: left;
+    justify-content: left;
+}
